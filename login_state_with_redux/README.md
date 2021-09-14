@@ -1,6 +1,6 @@
 # login_state_with_redux
 
-A new Flutter project.
+Controle basico de estados globais em um login usando flutter e redux
 
 ## Getting Started
 
